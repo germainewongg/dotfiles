@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = germainewong0@gmail.com
+	name = Germaine Wong
